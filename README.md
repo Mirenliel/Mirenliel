@@ -1,6 +1,8 @@
-![](https://komarev.com/ghpvc/?username=Mirenliel&color=#00ff7f)
+##Olá, meu nome é Luiz Otávio, eu sou um desenvolvedor formado em Técnico de Desenvolvimento de Sistemas!
 
-<h3>When I code, I rely on</h3>
+Pretendo criar uma boa trajétoria de vida e ter projetos bons o suficiente pra alcançar as expectativas que serem impostas sobre mim.
+
+<h3>Eu tenho conhecimento em:</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
