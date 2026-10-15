@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Mirenliel&color=blue)
+![](https://komarev.com/ghpvc/?username=Mirenliel&color=#00ff7f)
 
 <h3>When I code, I rely on</h3>
 <p>
