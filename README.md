@@ -1,4 +1,4 @@
-##Olá, meu nome é Luiz Otávio, eu sou um desenvolvedor formado em Técnico de Desenvolvimento de Sistemas!
+## Olá, meu nome é Luiz Otávio, eu sou um desenvolvedor formado em Técnico de Desenvolvimento de Sistemas!
 
 Pretendo criar uma boa trajétoria de vida e ter projetos bons o suficiente pra alcançar as expectativas que serem impostas sobre mim.
 
