@@ -1,4 +1,4 @@
-## Luiz Otávio Fontenele Lopes, formado Técnico em Desenvolvimento de Sistemas
+## Formado Técnico em Desenvolvimento de Sistemas
 Estudei no SENAI durante três anos e desenvolvi muitos projetos, focando principalmente em lógica de programação, testes de sistemas,
 implantação de sistemas, desenvolvimento web, tanto Back-End quanto Front-End, Banco de Dados.
 
